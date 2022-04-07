@@ -67,7 +67,6 @@ Note: If `Go Live` option not visible, please disable and then enable the Live s
 To run Assignment 1, Url would be:
  http://127.0.0.1:5500/{Relative path}/src/Assignment-1/assignment1.html
 
-
 5. Run `node_modules/.bin/karma run -- --grep="Assignment-1"` every time you want to build and test `Assignemnt 1`. 
 
 6. Run `node_modules/.bin/karma run -- --grep="Assignment-2"` every time you want to build and test `Assignemnt 2`. 
